@@ -1,4 +1,6 @@
-<img width="3838" height="2159" alt="Screenshot 2026-09-12 213104" src="https://github.com/user-attachments/assets/ee0863a7-a456-45c4-bac1-5c83f80ce122" /># Okinami_YASB
+# Okinami_YASB
+
+<img width="3838" height="2159" alt="Screenshot 2026-09-12 213104" src="https://github.com/user-attachments/assets/ee0863a7-a456-45c4-bac1-5c83f80ce122" />
 ### Minimalistic bar with waves design and several color schemes available in one CSS.
 <img width="3835" height="101" alt="Screenshot 2026-09-12 213836" src="https://github.com/user-attachments/assets/84c3a99a-fd79-49af-809d-7e88785e0b91" />
 
