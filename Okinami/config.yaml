@@ -83,7 +83,7 @@ widgets:
       round_corners_type: normal
       border_color: System
       alignment: left
-      offset_left: -6
+      offset_left: -5
   clock:
     type: yasb.clock.ClockWidget
     options:
@@ -512,8 +512,8 @@ widgets:
         round_corners: false
         blur: false
         round_corners_type: normal
-        offset_top: 8
-        offset_left: 6
+        offset_top: 9
+        offset_left: 5
       sections:
         system_controls:
           profile_image_size: 28
