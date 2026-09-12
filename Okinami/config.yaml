@@ -49,15 +49,16 @@ bars:
       - media
       right:
       - systray
+      #- lines
+      #- memory
+      #- cpu
       - lines
       - wallpapers
       - lines
       - volume
       - lines
       - notifications
-      #- lines
       - language
-      #- lines
       - control_center
 widgets:
   home:
