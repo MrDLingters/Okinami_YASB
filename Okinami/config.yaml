@@ -263,28 +263,6 @@ widgets:
         offset_top: 6
         offset_left: 0
         show_layout_icons: true
-  cava:
-    type: "yasb.cava.CavaWidget"
-    options:
-      bar_height: 12
-      waveform: 0
-      waves: 0
-      monstercat: 0
-      sensitivity: 100
-      edge_fade: 1
-      min_bar_height: 0
-      gradient: 1
-      foreground: "#89b4fa"
-      gradient_color_1: '#74c7ec'
-      gradient_color_2: '#89b4fa'
-      gradient_color_3: '#cba6f7'
-      bars_number: 18
-      bar_spacing: 2
-      bar_width: 4
-      bar_type: "waves"
-      framerate: 60
-      sleep_timer: 2
-      hide_empty: true
   systray:
     type: "yasb.systray.SystrayWidget"
     options:
