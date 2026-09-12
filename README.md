@@ -56,7 +56,7 @@
 ### Nord
 <img width="3839" height="2159" alt="Screenshot 2026-09-12 213623" src="https://github.com/user-attachments/assets/529a5819-e7a1-4866-9eac-cbc80fc6f044" />
 
-### Kanagawa
+### Kanagawa Wave
 <img width="3839" height="2159" alt="Screenshot 2026-09-12 213650" src="https://github.com/user-attachments/assets/fc37c761-a594-45a7-9d3a-4d071625efd0" />
 
 
