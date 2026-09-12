@@ -3,6 +3,14 @@
 ### Minimalistic bar with waves design and several color schemes available in one CSS.
 <img width="3835" height="101" alt="Screenshot 2026-09-12 213836" src="https://github.com/user-attachments/assets/84c3a99a-fd79-49af-809d-7e88785e0b91" />
 
+Requires YASB v2.0.7 or newer.
+
+Fonts required:
+- JetBrainsMono Nerd Font Propo
+- Segoe Fluent Icons
+
+Change image_path in the wallpapers widget to your own wallpaper folder.
+
 ### Preview
 <img width="3839" height="2159" alt="Screenshot 2026-09-13 012154" src="https://github.com/user-attachments/assets/7f52d703-9c94-4d9c-ad53-fe9e75cba971" />
 <img width="3839" height="2159" alt="Screenshot 2026-09-12 210613" src="https://github.com/user-attachments/assets/ce309e19-8779-431c-8ccf-b56dc5bdb9b6" />
