@@ -151,7 +151,7 @@
     --subtext: #4B565C; */
 
     /* MonochromeAccentDark */
-    /* --background: #18181b;
+    --background: #18181b;
     --background2: #3f3f42;
     --accent: var(--yasb-accent-light2);
     --text: #e5e7eb;
@@ -160,7 +160,7 @@
     --mutedBG: #3f3f42;
     --border: #3f3f42;
     --redFlash: #e5e7eb;
-    --subtext: #E5E7EB; */
+    --subtext: #E5E7EB;
 
     /* MonochromeAccentLight*/
     /* --background: #e5e7eb;
@@ -199,7 +199,7 @@
     --subtext: #bdc2cd76; */
 
     /* Kanagawa */
-    --background: #1F1F28;
+    /* --background: #1F1F28;
     --background2: #727169;
     --accent: #C8C093;
     --text: #DCD7BA;
@@ -208,7 +208,7 @@
     --mutedBG: #090618;
     --border: #C0A36E;
     --redFlash: #C34043;
-    --subtext: #C8C093;
+    --subtext: #C8C093; */
 }
 
 /* Global Defaults */
@@ -1043,6 +1043,7 @@ Example: "Windows Media" becomes "windows-media" */
     background-color: #2ecc71;
     color: #000000;
 }
+
 .media-menu .btn {
     font-family: var(--icons-font);
     font-size: 14px;
@@ -1053,34 +1054,22 @@ Example: "Windows Media" becomes "windows-media" */
     min-height: 40px;
     max-height: 40px;
     border-radius: 20px;
-    color: var(--accent);
-    background-color: var(--background2);
+    color: var(--accentText);
+    background-color: var(--accent);
 }
 .media-menu .btn.prev {
     margin-left: 10px;
-    color: var(--accent);
 }
 .media-menu .btn:hover {
-    color: var(--mutedBG);
-    background-color: var(--accent);
+    color: var(--accentText);
+    background-color: var(--hover);
 }
 .media-menu .btn.play {
-    background-color: var(--accent);
     font-size: 20px;
-    color: var(--accentText);
-}
-.media-menu .btn.disabled:hover {
-    color: var(--accent);
-    background-color: var(--background);
 }
 
 .media-menu .btn.disabled {
-    background-color: transparent;
-}
-
-.media-menu .btn.play:hover {
-    background-color: var(--text);
-    color: var(--mutedBG);
+    background-color: var(--background2);
 }
 
 .media-menu .playback-time {
