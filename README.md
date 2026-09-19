@@ -3,8 +3,8 @@
 ### Minimalistic bar with waves design and several color schemes available in one CSS.
 <img width="3840" height="101" alt="yasb_bar_primary-bar_20260915_213800" src="https://github.com/user-attachments/assets/efd7b8d0-0eae-4818-b018-0e27fe6cd966" />
 
-### Themed
-<img width="3835" height="101" alt="Screenshot 2026-09-12 213836" src="https://github.com/user-attachments/assets/84c3a99a-fd79-49af-809d-7e88785e0b91" />
+### Preview
+<img width="3839" height="2159" alt="Screenshot 2026-09-13 233000" src="https://github.com/user-attachments/assets/6a9762ec-3b1a-4782-837f-bf534a4a440a" />
 
 Requires YASB v2.0.7 or newer.
 
@@ -14,7 +14,7 @@ Fonts required:
 
 Change image_path in the wallpapers widget to your own wallpaper folder.
 
-### Preview
+### Preview with Kanagawa wave theme
 <img width="3839" height="2159" alt="Screenshot 2026-09-13 012154" src="https://github.com/user-attachments/assets/7f52d703-9c94-4d9c-ad53-fe9e75cba971" />
 <img width="3839" height="2159" alt="Screenshot 2026-09-12 210613" src="https://github.com/user-attachments/assets/ce309e19-8779-431c-8ccf-b56dc5bdb9b6" />
 <img width="3839" height="2159" alt="Screenshot 2026-09-12 210628" src="https://github.com/user-attachments/assets/c44cc89f-5553-4ef9-852f-afe6e23f8716" />
