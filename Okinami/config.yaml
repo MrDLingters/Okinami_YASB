@@ -94,8 +94,8 @@ widgets:
         blur: false
         round_corners: true
         alignment: center
-        offset_left: 110
         direction: down
+        offset_left: 0
         extended: false
         show_years: true
         show_holidays: false
