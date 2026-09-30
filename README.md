@@ -71,5 +71,6 @@ Change image_path in the wallpapers widget to your own wallpaper folder.
 
 
 # How to change color scheme
+### If you want to switch themes from UI, setup this [tool](https://github.com/MrDLingters/YASB_ThemeSwitcher)
 ### Open styles.css file in your C:\Users\USERNAME\\.config\yasb and leave uncommented **ONE** set of variables from "colors" section. Here's a [quick guide video](https://youtu.be/PFH5lKwJ9Dw?si=jJ6s-vyxm7ZkIhD5).
 <img width="1887" height="2050" alt="Screenshot 2026-06-25 223821" src="https://github.com/user-attachments/assets/0cd65d69-8b3d-48ca-abfb-89102854f6de" />
